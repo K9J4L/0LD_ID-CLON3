@@ -1,1 +1,1 @@
-print('Please check your approval 🔑')
+print('this tool update now please  contact tha owner🔑')
